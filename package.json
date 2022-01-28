@@ -8,14 +8,14 @@
   },
   "name": "a01-poojha-p",
   "description": "A webserver for class.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/comp426-2022-spring/a01-poojha-p.git"
   },
   "author": "Poojha Palle",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a01-poojha-p/issues"
   },
