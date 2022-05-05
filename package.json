@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "server": "^1.0.37"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "a01-poojha-p",
+  "description": "A webserver for class.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a01-poojha-p.git"
+  },
+  "author": "Poojha Palle",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-poojha-p/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-poojha-p#readme"
+}
